@@ -1,11 +1,12 @@
 controladdin "ColorPicker"
 {
-    //VerticalStretch = true;
-    //HorizontalStretch = true;
+    VerticalStretch = true;
+    HorizontalStretch = true;
     VerticalShrink = true;
     HorizontalShrink = true;
-    RequestedHeight = 240;
-    RequestedWidth = 200;
+    RequestedHeight = 360;
+    RequestedWidth = 300;
+
 
 
     Scripts = 'ControlAddIn/ColorPicker/Script/ColorPicker.js',

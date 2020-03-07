@@ -2336,6 +2336,7 @@ function KellyColorPicker(cfg) {
             
         var colorHex = $("#color").val();
         sendToNav("OnValueSet",colorHex);
+        alert('tere tali');
         // console.log('svMouseUp : start : ' + dot.x + ' | ' + dot.y);
 
         removeEventListener(document, "mouseup", 'action_process_');
