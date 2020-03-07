@@ -1,7 +1,7 @@
 # B365JavascriptColorPicker
 Javascript Color Picker control-addin for Dynamics NAv Business Central. Returns color hex code.
 
-
+![](ColorPicker/ColorPicker.png)
 
 1. Copy contents of ControlAddIn folder into your B365 Controladdin folder. 
 2. Add usercontrol field to a page.
