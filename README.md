@@ -5,5 +5,5 @@ Javascript Color Picker control-addin for Dynamics NAv Business Central. Returns
 2. Add usercontrol field to a page.
 3. Enjoy!
 
-Javascript part is based on amazing work of NC22 @ https://github.com/NC22/HTML5-Color-Picker
+Javascript part is based on the amazing work of NC22 @ https://github.com/NC22/HTML5-Color-Picker
 Cheers!
