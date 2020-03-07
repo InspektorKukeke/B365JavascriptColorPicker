@@ -8,4 +8,6 @@ Javascript Color Picker control-addin for Dynamics NAv Business Central. Returns
 3. Enjoy!
 
 Javascript part is copied from github user NC22 @ https://github.com/NC22/HTML5-Color-Picker
+
+
 Cheers!
