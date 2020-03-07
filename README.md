@@ -1,4 +1,4 @@
-# B365JavascriptColorPicker
+# Dynamics NAV Business 365 Color Picker ControlAddIn
 Javascript Color Picker control-addin for Dynamics NAv Business Central. Returns color hex code.
 
 ![](ColorPicker/ColorPickerpic.png)
